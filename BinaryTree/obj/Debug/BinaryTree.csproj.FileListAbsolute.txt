@@ -1,0 +1,14 @@
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+E:\Semester 2\Cloud Programming\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Semester 2\Cloud Programming\C# Stuff\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
